@@ -1,0 +1,39 @@
+body{
+    display: block;
+    
+}
+.container {
+    border: none;
+    border-radius: 5px;
+    width: 400px;
+    height: 450px;
+    background-color: lightgray;
+}
+ 
+.text {
+    font-size: 13px;
+    margin: 0;
+    padding: 5px;
+    text-align: left;
+    
+    
+}
+.subcontainer {
+    width: 350px;
+    height: 105px;
+    border: 1px solid black;
+    margin: 25px;
+    background-color: white;
+}
+.img  {
+    margin: 10px;
+    float: left;
+    
+}
+.img1 {
+    float: right;
+    margin: 1px;
+}
+
+
+

@@ -1,0 +1,36 @@
+table, td{
+            border-bottom: 1px solid black;
+            border-right: 1px solid black;
+            border-collapse: collapse;
+            padding: 2px;
+            
+        }
+        .row1 {
+            background-color: limegreen;
+            
+            
+        }
+        .row1, p{
+            color: #ffffff;
+        }
+         
+        table, a {
+            
+            text-decoration: none;
+            text-align: left;
+            color: black;
+        }
+        .nonborder {
+            
+           
+            border-bottom: none;
+        }
+        .nonborderimg{
+            border-right: 1px;
+            border-bottom: 1px;
+        }
+        .trcolor{
+            background-color: rgb(236, 236, 216)
+        }
+        
+        
